@@ -8,7 +8,7 @@
     tools:context="com.bwie.myeryuekaoti.activity.Main2Activity">
     <com.bwie.myeryuekaoti.zidingyi.GramophoneView
         android:id="@+id/gramophone"
-        app:src="@drawable/ic_launcher_background"
+        app:src="@drawable/y"
         app:picture_radiu="80dp"
         app:disk_rotate_speed="1"
         android:layout_width="wrap_content"
